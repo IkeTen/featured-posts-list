@@ -23,8 +23,8 @@ just display specific post who selected by admin, from admin panel. it creates a
 == Screenshots ==
 Admin Panel
 
-<p>
-<img border="0" src="http://svn.wp-plugins.org/featured-posts-list/trunk/screenshot-1.jpg"></p>
+<a herf="http://svn.wp-plugins.org/featured-posts-list/trunk/screenshot-1.jpg">click here</a>
+<img border="0" src="http://svn.wp-plugins.org/featured-posts-list/trunk/screenshot-1.jpg">
 
 == Frequently Asked Questions == 
 
