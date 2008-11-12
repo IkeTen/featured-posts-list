@@ -5,7 +5,7 @@ Plugin URI: http://www.w3cgallery.com/w3c-css/display-specificmultiple-posts-as-
 Description: Display specific/multiple posts List on your sidebar or any place of your site. It creates a tab "Featured Posts List" in "Settings" or "Options" tab
 Version: 1.0
 Author: SAN - w3cgallery.com & Windowshostingpoint.com
-Author URI: http://www.w3cgallery.com/w3c-css/display-specificmultiple-posts-as-featured-post-list-plugins
+Author URI: http://www.w3cgallery.com/
 */
 
 /*  Copyright 2008  SAN - w3cgallery.com & Windowshostingpoint.com
