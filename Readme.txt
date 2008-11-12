@@ -11,7 +11,7 @@ The Display specific multiple posts on sidebar.
 
 == Description ==
 
-it give full freedom to admin display specific post as featured posts list in sidebar
+it gives full freedom to display specific post as featured posts list in sidebar
 and when user click on those list it will open full post detial pages.
 
 admin can add Multiple posts to display as "Featured posts list".
