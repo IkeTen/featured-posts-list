@@ -21,10 +21,10 @@ some time site owner wants to make some specific posts highlight on their sites.
 just display specific post who selected by admin, from admin panel. it creates a tab "featured posts List" in Settings/options panel in admin to manage posts.
 
 == Screenshots ==
-Admin Panel
+1. Screenshot Admin Area 
 
-<a href="http://svn.wp-plugins.org/featured-posts-list/trunk/screenshot-1.jpg">click here</a>
-<img border="0" src="http://svn.wp-plugins.org/featured-posts-list/trunk/screenshot-1.jpg">
+<a href="www.w3cgallery.com/w3c-css/display-specificmultiple-posts-as-featured-post-list-plugins">click here</a>
+
 
 == Frequently Asked Questions == 
 
