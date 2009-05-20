@@ -20,6 +20,12 @@ some time site owner wants to make some specific posts highlight on their sites.
 
 just display specific post who selected by admin, from admin panel. it creates a tab "featured posts List" in Settings/options panel in admin to manage posts.
 
+
+Must check our New Version plugin 
+<a href="http://wordpress.org/extend/plugins/featured-posts-list-2/">
+Featured Post List2 With IMAGES</a>
+
+
 == Screenshots ==
 1. Screenshot Admin Area 
 
@@ -30,6 +36,10 @@ just display specific post who selected by admin, from admin panel. it creates a
 
 for Instructions and help online Please <a href="http://www.w3cgallery.com/w3c-css/display-specificmultiple-posts-as-featured-post-list-plugins">
 Click Here</a>
+
+Must check our New Version plugin 
+<a href="http://www.w3cgallery.com/w3c-css/wordpress-featured-post-list2-with-image-plugins">
+Featured Post List2 With IMAGES</a>
 
 
 If you like this plugin, please leave your comments on w3cgallery.com
